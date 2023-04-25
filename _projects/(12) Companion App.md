@@ -1,16 +1,16 @@
 ---
-name: Starshooter, Spatial Shoot
-tools: [C#, Unity3D, Mobile]
+name: Companion App
+tools: [Android, Kotlin, Mobile]
 image: 
-description: Lorem ipsum.
+description: 
 ---
 
-{% include elements/video.html id="yx-faLIs8L0" %}
+{% include elements/video.html id="HXMD-1iiD9Y" %}
+
 
 ### Developed by:
 - Ángel Artigas Pérez
-- Miguel Astorga Badía
-- Jordi Sans Solé
+
 
 <p class="text-center">
 {% include elements/button.html link="https://artigasdev.github.io/projects/" text="Back" %}

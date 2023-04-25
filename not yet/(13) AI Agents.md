@@ -1,12 +1,11 @@
 ---
-name: Flatheroes
-tools: [C++, SDL2, Chipmunk2D]
+name: AI Agents
+tools: [AI, C++, SDL2]
 image: 
 description: Lorem ipsum.
 ---
 
 {% include elements/video.html id="SLZAzNJeupM" %}
-
 
 
 ### Developed by: 

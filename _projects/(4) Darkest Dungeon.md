@@ -7,7 +7,7 @@ description: A Unity3D project simulating the combat and inventory systems of th
 
 {% include elements/video.html id="73XyobKZPL8" %}
 
-# Developed by:
+### Developed by:
 - Ángel Artigas Pérez
 - Jordi Sans Solé
 

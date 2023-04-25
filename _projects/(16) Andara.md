@@ -1,18 +1,14 @@
 ---
-name: Flatheroes
-tools: [C++, SDL2, Chipmunk2D]
+name: Andara [WIP]
+tools: [WIP, C++, UE4]
 image: 
-description: Lorem ipsum.
+description: A Third Person Shooter made with UE4 soon to be released on Steam.
 ---
 
 {% include elements/video.html id="SLZAzNJeupM" %}
 
-
-
-### Developed by: 
-- Ángel Artigas Pérez 
-- Jordi Sans Solé
-- Miguel Astorga Badía
+### Developed by:
+- [Chivito Games](https://twitter.com/AndaraGame)
 
 <p class="text-center">
 {% include elements/button.html link="https://artigasdev.github.io/projects/" text="Back" %}

@@ -7,7 +7,7 @@ description: A graphics programming project where a procedural city is generated
 
 {% include elements/video.html id="Xvp-8euyaDA" %}
 
-# Developed by:
+### Developed by:
 - Ángel Artigas Pérez
 - Jordi Sans Solé
 

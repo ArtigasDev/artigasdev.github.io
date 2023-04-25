@@ -1,6 +1,6 @@
 ---
-name: Minotaur Labyrinth
-tools: [in development, C++, UE5, MetaSounds]
+name: Minotaur Labyrinth [WIP]
+tools: [WIP, C++, UE5, MetaSounds]
 image: https://i.imgur.com/TsmqW3t.gif
 description: An Unreal Engine 5 project that reinvents the classic legend of the Minotaur's labyrinth.
 ---
@@ -21,10 +21,10 @@ description: An Unreal Engine 5 project that reinvents the classic legend of the
 - Widgets for visual feedback
 
 
-# Developed by:
+### Developed by:
 - Ángel Artigas Pérez
-- Miguel Astorga Badía
 - Jordi Sans Solé
+- Miguel Astorga Badía
 
 <p class="text-center">
 {% include elements/button.html link="https://artigasdev.github.io/projects/" text="Back" %}

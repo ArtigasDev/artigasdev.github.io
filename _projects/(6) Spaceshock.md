@@ -8,7 +8,7 @@ description: A side scroller game focused on evoking sensations through its soun
 {% include elements/video.html id="SLZAzNJeupM" %}
 
 
-# Developed by:
+### Developed by:
 - Ángel Artigas Pérez
 - Jordi Sans Solé
 

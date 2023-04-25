@@ -2,7 +2,7 @@
 name: Flatheroes
 tools: [C++, SDL2, Chipmunk2D]
 image: 
-description: Lorem ipsum.
+description: 
 ---
 
 {% include elements/video.html id="SLZAzNJeupM" %}

@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Ángel Artigas Pérez
 description         : >-
-                      Debugging is like being a detective :detective: in a crime movie where you're also the murderer.
+                      Life is what happens between compilation and compilation of Unreal :frog:
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : ArtigasDev/artigasdev.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU

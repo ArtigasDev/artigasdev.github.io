@@ -7,7 +7,7 @@ description: A video game controlled only with two joysticks that will test your
 
 {% include elements/video.html id="3g_TlaIHHmg" %}
 
-# Developed by:
+### Developed by:
 - Ángel Artigas Pérez
 - Jordi Sans Solé
 

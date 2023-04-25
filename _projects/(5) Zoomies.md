@@ -1,18 +1,15 @@
 ---
-name: Flatheroes
-tools: [C++, SDL2, Chipmunk2D]
+name: Zoomies
+tools: [C#, Unity3D, GameJam]
 image: 
-description: Lorem ipsum.
+description: 
 ---
 
 {% include elements/video.html id="SLZAzNJeupM" %}
 
 
+### Developed by:
 
-### Developed by: 
-- Ángel Artigas Pérez 
-- Jordi Sans Solé
-- Miguel Astorga Badía
 
 <p class="text-center">
 {% include elements/button.html link="https://artigasdev.github.io/projects/" text="Back" %}
