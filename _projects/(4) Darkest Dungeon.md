@@ -11,6 +11,8 @@ description: A Unity3D project simulating the combat and inventory systems of th
 - Ángel Artigas Pérez
 - Jordi Sans Solé
 
+**<br>The repository for this project is not publicly accessible but code snippets may be shared with those who are interested in its implementation. Get in touch with me for futher details.**
+
 <p class="text-center">
 {% include elements/button.html link="https://artigasdev.github.io/projects/" text="Back" %}
 </p>
