@@ -15,9 +15,11 @@ description: An Unreal Engine 5 project that reinvents the classic legend of the
 - Animations.
 - Pooling.
 - Events.
+- Networking.
+- Local 2-player mode.
 
 # Pending features
-- Multiplayer with lobby.
+- Lobby for multiplayer sessions.
 - Widgets for visual feedback.<br><br>
 
 

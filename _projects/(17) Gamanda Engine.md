@@ -1,9 +1,11 @@
 ---
-name: Gamanda Engine (PC/PS4) [WIP]
+name: Gamanda Engine (PC) [WIP]
 tools: [WIP, C++, OpenGL]
-image: 
+image: https://i.imgur.com/Lg9tX7z.gif
 description: Videogames Engine developed using C++ and OpenGL.
 ---
+
+{% include elements/video.html id="p7pZwEd9Qfw" %}
 
 GamandaEngine is a custom Videogames Engine that is being developed from scratch in C++ and OpenGL by Jordi Sans Solé and me.
 
@@ -16,12 +18,13 @@ Since the project is still in progress, updates will be made regularly to this p
 - Graphic interface using Imgui.
 - Phong Lighting model with forward rendering.
 - Instancing rendering.
-- Shadow mapping.
-
-# Future Features
-- Port to PS4.
+- Directional shadow mapping.
 - Deferred rendering.
-- Cubemap.
+- Omnidirectional shadow maps.
+
+# Future Expected Features
+- Port to PS4.
+- Save/Load scenes.
 - Post-processing: Bloom, blur, tone-mapping.
 
 # How it was implemented

@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :frog:, I was born in Zaragoza, Spain and I've been interested in videogames and technology since I was a child. I've always been curious about how videogames are made and how the industry has evolved.
+Hi I am **{{ site.author.name }}**, I was born in Zaragoza, Spain and I've been interested in videogames and technology since I was a child. I've always been curious about how videogames are made and how the industry has evolved.
 
 My immersion in the world of programming began with a Higher Level Education Cycle in Multi-platform Application Development (HNC equivalent), where I learned a good programming base and how to approach problems with logical thinking.
 
