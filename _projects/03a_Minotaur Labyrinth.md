@@ -1,8 +1,9 @@
 ---
-name: Minotaur Labyrinth [WIP]
+name: Minotaur's Labyrinth [WIP]
 tools: [WIP, C++, UE5, MetaSounds]
 image: https://i.imgur.com/TsmqW3t.gif
-description: An Unreal Engine 5 project that reinvents the classic legend of the Minotaur's labyrinth.
+description: An Unreal Engine 5 project that reinvents a classic Greek myth.
+order: 3
 ---
 
 {% include elements/video.html id="HXMD-1iiD9Y" %}
