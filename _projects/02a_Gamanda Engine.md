@@ -23,13 +23,18 @@ Since the project is still in progress, updates will be made regularly to this p
 - Deferred rendering.
 - Omnidirectional shadow maps.
 
-# Future Expected Features
+## Future Expected Features
 - Port to PS4.
 - Save/Load scenes.
 - Post-processing: Bloom, blur, tone-mapping.
+<br><br>
+
+---
 
 # How it was implemented
 Work in progress...<br><br>
+
+---
 
 ### Developed by: 
 - Ángel Artigas Pérez 

@@ -23,6 +23,7 @@ order: 3
 - Lobby for multiplayer sessions.
 - Widgets for visual feedback.<br><br>
 
+---
 
 ### Developed by:
 - Ángel Artigas Pérez
