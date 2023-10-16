@@ -1,7 +1,7 @@
 ---
 name: Color Busters
 tools: [C#, Unity3D]
-image: https://i.imgur.com/ZTKQVrG.gif
+image: https://i.imgur.com/JBj6Ich.gif
 description: A video game controlled only with two joysticks that will test your coordination skills.
 ---
 

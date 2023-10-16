@@ -1,7 +1,7 @@
 ---
 name: Project Manhattan
 tools: [C++, OpenGL]
-image: https://i.imgur.com/2cYjZT2.gif
+image: https://i.imgur.com/FJ0DOyV.gif
 description: A graphics programming project where a procedural city is generated using my university's engine.
 ---
 

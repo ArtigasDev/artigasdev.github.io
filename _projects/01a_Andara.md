@@ -1,7 +1,7 @@
 ---
 name: "ANDARA: Rise for Rebellion"
 tools: [C++, UE4, Steam]
-image: https://i.imgur.com/qgHhG25.gif
+image: https://i.imgur.com/wihEBQR.gif
 description: A Third Person Shooter made with UE4 already released on Steam.
 order: 1
 ---

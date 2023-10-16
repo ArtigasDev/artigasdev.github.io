@@ -1,7 +1,7 @@
 ---
 name: Spaceshock
 tools: [C#, Unity3D]
-image: https://i.imgur.com/DON4v02.gif
+image: https://i.imgur.com/4M89ca2.gif
 description: A side scroller game focused on evoking sensations through its sound and visual effects!
 ---
 

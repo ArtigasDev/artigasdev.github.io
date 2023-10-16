@@ -1,7 +1,7 @@
 ---
 name: Gamanda Engine (PC) [WIP]
 tools: [WIP, C++, OpenGL]
-image: https://i.imgur.com/Lg9tX7z.gif
+image: https://i.imgur.com/wpZL2eV.gif
 description: Videogames Engine developed using C++ and OpenGL.
 order: 2
 ---
