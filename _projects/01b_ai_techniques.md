@@ -1,6 +1,6 @@
 ---
 name: AI Techniques
-tools: [WIP, AI, C#, Unity]
+tools: [AI, C#, Unity]
 image: https://i.imgur.com/qUBBRVI.gif
 description: A project making use of various AI techniques such as Marching Cubes and the A* algorithm.
 ---
